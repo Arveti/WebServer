@@ -1,4 +1,4 @@
-Web Server implementation which server static files from the given folder
+Web Server implementation which serves static files from the given folder
 
 Usage : java -jar WebServer.jar port rootFolderPath
 
